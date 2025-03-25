@@ -8,7 +8,7 @@ Spring Boot
 
 Spring Security & JWT
 
-Spring Data JPA & MySQL
+Spring Data JPA & POSTGRESQL
 
 JUnit (Testler)
 
